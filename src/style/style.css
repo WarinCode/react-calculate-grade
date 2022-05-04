@@ -1,0 +1,44 @@
+/* google font */
+
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Playfair+Display&family=Prompt:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Itim&family=Playfair+Display&family=Prompt:wght@100&display=swap');
+
+/* style */
+
+*::selection {
+    color: rgb(73, 213, 231);
+    background-color: black;
+}
+
+nav {
+    font-family: 'Akshar', cursive;
+}
+
+li {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.footer i {
+    color: #bbb7b7;
+    font-size: 30px;
+}
+
+.footer {
+    font-family: 'Akshar', sans-serif;
+}
+
+.swal2-popup {
+    font-family: 'Itim', cursive;
+}
+
+form {
+    margin-top: 4.3rem;
+    font-family: 'Itim', cursive;
+    text-align: center;
+}
+
+input {
+    width: 18rem;
+    margin-bottom: 15px;
+}
