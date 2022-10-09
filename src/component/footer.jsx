@@ -4,6 +4,7 @@ import React from "react";
 // import style
 import { footer , li , i} from "../style/style";
 function Footer(){
+    
     return(
         <>
             <section style={{marginBottom: '120px'}}></section>
